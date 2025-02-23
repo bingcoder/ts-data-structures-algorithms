@@ -1,5 +1,9 @@
 {
   "cSpell.words": [
     "heapify"
-  ]
+  ],
+  "editor.formatOnSave": true,
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  }
 }
